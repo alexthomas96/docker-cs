@@ -1,4 +1,4 @@
-# cs-docker
+# docker-cs
 
 ## What is It
 
@@ -11,6 +11,11 @@ This container runs:
 * Counter-Strike.exe - to demo that it works
 
 <strong>WARNING</strong> : This is <strong>NOT</strong> a trusted build! Please install only at your own risk.
+
+## Get It
+
+    Download it by clicking [here](https://github.com/alexthomas96/docker-cs/archive/master.zip).
+    Unzip, and navigate to that directory.
 
 ## Build It
 
