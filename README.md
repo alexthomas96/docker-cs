@@ -25,8 +25,7 @@ Unzip, and navigate to that directory.
 
     docker run -d -p 9000:8080 cs:useless
     
-## Play It 
-####(um, not exactly)
+## Play It #### (um, not exactly)
 
 Give it about 2 minutes to update the launcher.
 Navigate to http://localhost:9000 in your browser.
