@@ -14,8 +14,8 @@ This container runs:
 
 ## Get It
 
-    Download it by clicking [here](https://github.com/alexthomas96/docker-cs/archive/master.zip).
-    Unzip, and navigate to that directory.
+Download it by clicking [here](https://github.com/alexthomas96/docker-cs/archive/master.zip).
+Unzip, and navigate to that directory.
 
 ## Build It
 
